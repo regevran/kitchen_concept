@@ -1,3 +1,15 @@
+
+# build directory
+gcc/
+cmake-*/
+gcc
+
+# vim
+*~*
+
+# idea
+.idea/
+
 # Prerequisites
 *.d
 
